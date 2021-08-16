@@ -1,0 +1,7 @@
+We can run in 2 ways
+
+1) 
+-run "fiverr_scrap.py" . this will write all serive URLs to "review_url.txt" based on input keywords in "keyword.txt"
+-then run scrapper.py. This will read urls from review_url.txt and write reviews to "reviewDetails.csv".
+
+2) 	Run "ScrapperCombined.py". This will read keywords in "keyword.txt" and write reviews to "reviewDetailsCombined.csv" 
